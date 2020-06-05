@@ -1,7 +1,3 @@
-const name = "mbonu uchenna";
-const id = "04625";
-const email = "urchphil@gmail.com";
-const language = "java script";
 console.log(
-  `hello world, this is ${name} with HNG i7 id ${id} using ${language} for stage 2 task`
+  "Hello World, this is Mbonu Uchenna with HNGi7 ID HNG-04625 and email urchphil@gmail.com using JavaScript for stage 2 task"
 );
